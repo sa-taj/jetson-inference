@@ -2,6 +2,7 @@
 add_subdirectory(imagenet)
 add_subdirectory(detectnet)
 add_subdirectory(segnet)
+add_subdirectory(rs_detectnet)
 
 # experimental examples
 if(BUILD_EXPERIMENTAL)
